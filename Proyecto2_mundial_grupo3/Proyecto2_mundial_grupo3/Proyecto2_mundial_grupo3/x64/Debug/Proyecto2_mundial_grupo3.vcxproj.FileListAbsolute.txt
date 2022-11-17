@@ -1,0 +1,3 @@
+C:\Users\kathe\source\repos\Proyecto2_mundial_grupo3\Proyecto2_mundial_grupo3\x64\Debug\Proyecto2_mundial_grupo3.vcxproj.AssemblyReference.cache
+C:\Users\kathe\source\repos\Proyecto2_mundial_grupo3\Proyecto2_mundial_grupo3\x64\Debug\Proyecto2mundialgrupo3.MyForm.resources
+C:\Users\kathe\source\repos\Proyecto2_mundial_grupo3\Proyecto2_mundial_grupo3\x64\Debug\Proyecto2_mundial_grupo3.vcxproj.GenerateResource.cache
